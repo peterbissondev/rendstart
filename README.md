@@ -14,3 +14,5 @@ So maybe AI is interpretable. Intuitively, do I meeet AI, such as typing or a vo
 We have a history of looking at intpreters as programming language or technology interpretations, but a DTD applied at AI, well, that's a different machine.
 
 What contenteditable does at the browser, so far rsearch with Edge, is render content editable with a spell checker, grammer (needs work), but also typing with voice. We can assume then, with features such as Mcirosoft's Visual Studio step forward and back features, AI can do the same, and that's where autosaving and file names are stored locally with the application I'm developing.
+
+So now, client-side application developing, in XML, based on structuring book pages, what I am adding is the settings page(s), but this brings up a seprate issue about local saved pages and naming and always intuitive, as much as possible, because it works.
