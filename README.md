@@ -9,5 +9,5 @@ Contenteditable="true", in JavaScript, is a very powerfull tool because the site
 
 What I am working on with the site, is the idea that actions are interpretable, so there are no buttons to save text or file names required to save files, but rather JavaScript events and edit actions.
 
-So maybe AI is interpretable. Intuitively, do I meeet AI, such as typing or a voice command with AI, yet just edting. AI must kneow where commands are not part of content, which brings me to XML.
+So maybe AI is interpretable. Intuitively, do I meeet AI, such as typing or a voice command with AI, yet just edting. AI must know where commands are not part of the content, which brings me to XML.
 
